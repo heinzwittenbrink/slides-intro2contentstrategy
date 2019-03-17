@@ -40,6 +40,8 @@ Am Vormittag geht es im wesentlichen um Analyse, am Nachmittag um die Entwicklun
 # Das Quad
 
 ##
+
+![](pics/Brain-Traffic-Content-Strategy-Quad-2018.png)
 <p class="rights">Braintraffic</p>
 
 # User Journeys und Touchpoints
@@ -47,6 +49,10 @@ Am Vormittag geht es im wesentlichen um Analyse, am Nachmittag um die Entwicklun
 # Auditing
 
 ## Übung: Wie habe ich mich für diese Veranstaltung entschieden?
+
+# Stakeholder-Analyse und Business Requirements
+
+##
 
 ::: notes
 
@@ -56,10 +62,20 @@ Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit de
 
 # Kernstrategie
 
+## Ergebnis: Kernstrategie-Statement
+
 # Botschaftsarchitektur
+
+## Ergebnis: Kernbotschaften
 
 # Inhaltstypen und Plattformen
 
+# Content Operations
+
 # Governance
 
-# Content Operations
+## Wie geht meine Organisation mit Inhalten um?
+
+- Übung: Gemeinsame Probleme identifizieren
+
+## Welchen Veränderungsbedarf gibt es?
