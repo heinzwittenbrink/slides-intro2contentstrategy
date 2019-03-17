@@ -1,5 +1,5 @@
 ---
-title: Einführung in die Content-Strategi
+title: Einführung in die Content-Strategie
 author: Heinz Wittenbrink
 date: 2019-03-18
 ---
@@ -7,6 +7,10 @@ date: 2019-03-18
 # Ziele
 
 ##
+
+- Grundlagen der Disziplin der Content-Strategie verstehen
+- Umsetzungsbedarf und -möglichkeiten in der eigenen Organisation erkennen
+
 ::: notes
 
 Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es kommt darauf an, die Funktion der Inhalte im Zusammenhang mit Technik und Design zu verstehen. Die Voraussetzung dafür ist, dass man sich darüber klar wird, dass man heute immer auch eine digitale Organisation ist.
@@ -25,9 +29,9 @@ Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es k
 - 11:00 Customer Journey, Auditing: Wo stehen wir, was wollen unsere User?
 - 11:45 Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
 - 12:30 Pause
-- 13:15 Modelle und Plattformen
-- 14:00 Backend und Content Operations
-- 14:30 Governance und Change Management
+- 13:15 Modelle und Plattformen: Welche Inhalte brauchen wir?
+- 14:00 Backend und Content Operations: Wie publizieren wir regelmäßig?
+- 14:30 Governance und Change Management: Wie richten wir uns nach unseren Usern?
 
 ::: notes
 
@@ -55,6 +59,11 @@ Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen 
 <p class="rights">Braintraffic</p>
 
 # 2. Customer Journey, Auditing: Wo stehen wir, was wollen unsere User?
+
+## Content-Strategie = Service Design mit Inhalten
+
+[Content-Strategie = Service Design mit Inhalten](https://heinzwittenbrink.github.io/slides-cs-und-servicedesign/#im-fokus "Content-Strategie = Service Design mit Inhalten")
+
 
 ## Beispiel: Weiterbildungsveranstaltung des Bildungsnetzwerks
 
@@ -96,7 +105,7 @@ Meine Botschaften sind aber eingebunden in einen praktischen Zweck. Die User wol
 
 :::
 
-# 3. Modelle und Plattformen
+# 4. Modelle und Plattformen
 
 ## Übung: Welchen Content wollen meine User an welcher Stelle?
 
@@ -105,13 +114,20 @@ Meine Botschaften sind aber eingebunden in einen praktischen Zweck. Die User wol
 - Social Media
 - Nachbereitung
 
+::: notes
+
+Hier ist wichtig, auf Content Marketing einzugehen.
+
+:::
+
+
 ## Wie sollten die Formate aussehen?
 
 ## Übung: Design Veranstaltungsinformation
 
-# 4. Backend und Content Operations
+# 5. Backend und Content Operations
 
-# 5. Governance und Change Management
+# 6. Governance und Change Management
 
 ## Wie geht meine Organisation mit Inhalten um?
 
@@ -123,10 +139,10 @@ Meine Botschaften sind aber eingebunden in einen praktischen Zweck. Die User wol
 
 ## Content-Strategie-Dokument
 
-- Wer sind meine User?
+- Wer sind meine User? Persona/Empathy Map
 - Was will ich erreichen - Kern-Strategie-Statement
 - Wie trete ich auf? Kernbotschaften
-- Wie ist der Ist-Zustand? 
-- Welche Content-Formate verwende ich?
-- Wie sieht der Workflow für meinen Content aus?
-- Was muss ich verändern?
+- Wie ist der Ist-Zustand? Audit Ankündigung
+- Welche Content-Formate verwende ich? Wie sieht die Veranstaltungsbeschreibung aus und mit welchen anderen Inhalten ist sie verbunden?
+- Wie sieht der Workflow für meinen Content aus? Wie produziere ich die Information? Was kann ich wiedernutzen? Wie messe ich den Erfolg?
+- Was muss ich verändern? Welche Schritte kann ich in meiner Organisation umsetzen?
