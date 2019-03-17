@@ -6,9 +6,10 @@ date: 2016-3-10
 
 #
 
-„Content strategy plans for the creation, delivery and governance of useful, usable content.“
-10.3.2016
 
+„Content strategy plans for the creation, delivery and governance of useful, usable content.“
+
+![Kristina Halvorson, Brain Traffic](pics/kristina.jpg)
 
 
 # Content-Strategie als Disziplin
@@ -22,8 +23,9 @@ date: 2016-3-10
 - Professionalisierung in Europa beginnt
 
 # Ziele heute:
-Content-Strategie als Disziplin darstellen
-Eigenständigkeit der Content-Strategie diskutieren
+
+- Content-Strategie als Disziplin darstellen
+- Eigenständigkeit der Content-Strategie diskutieren
 
 
 # Wozu braucht man Content-Strategie?
@@ -34,6 +36,12 @@ Content-Strategie stellt sicher, dass ...
 
 
 # Publizieren ohne Content-Strategie ist wie Bauen ohne Planung
+
+#
+
+![](pics/sarajevo.jpg)
+
+#
 
 - Inhalte sind “Assets”:
 - Inhalte zu erstellen ist mühsam, teuer und kompliziert
@@ -51,25 +59,27 @@ Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein U
 
 # Planung für den Lifecyle von Inhalten
 
-https://support.office.com/en-us/article/Introduction-to-Enterprise-Content-Management-in-SharePoint-Server-2007-67c13ac8-f6ef-4752-8976-d2910e1da6b4
+![](pics/lifecycle.jpg)
+
+#
+
+<p class="rights">Quelle: [Enterprise-Content-Management-in-SharePoint-Server](https://support.office.com/en-us/article/Introduction-to-Enterprise-Content-Management-in-SharePoint-Server-2007-67c13ac8-f6ef-4752-8976-d2910e1da6b4)<p>
 
 
 
 # Content-Strategie:
 
-> wiederholbares System, welches das Management von Inhalten über den gesamten Lebenszyklus der Inhalte steuert (Rahel Bailie)
+> wiederholbares System, welches das Management von Inhalten über den gesamten Lebenszyklus der Inhalte steuert
 
-#
+(Rahel Bailie, [Content Strategy Framework for the Content Lifecycle](https://de.slideshare.net/rahelab/content-strategy-framework-for-the-content-lifecycle "Content Strategy Framework for the Content Lifecycle"))
 
-http://de.slideshare.net/rahelab/content-strategy-framework-for-the-content-lifecycle
 
 #
 
 > Content strategy is to copywriting as information architecture is to design
 (Rahel Lovinger)
 
-#
-http://boxesandarrows.com/content-strategy-the-philosophy-of-data/
+Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows.com/content-strategy-the-philosophy-of-data/ "Content Strategy: The Philosophy of Data - Boxes and Arrows")
 
 
 
@@ -86,6 +96,8 @@ http://boxesandarrows.com/content-strategy-the-philosophy-of-data/
 
 > ... a content strategist, working with, interfaces, systems, people, and the connections—and especially the disconnections—between them.”
 
+![](pics/colman.jpg)
+
 ::: notes
 
 Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschiedliche Dinge Personen und Gegebenheiten arbeiten, um ein Ergebnis, nämlich Qualität von Inhalten, zu erreichen. Man kann sie nicht auf einem dieser verschiedenen Bereiche festlegen, auch wenn bei vielen Projekten der Hauptakzent auf einem dieser Bereiche liegt. Content hat mit der Verbindung sehr unterschiedliche Dinge zu tun, und diese Verbindungen sind das Hauptthema in der Arbeit von contact Strategen. Dieses Zitat von Jonathan Colman drückt diesem Zusammenhang, wie ich finde, sehr gut aus. Es zeigt auch dass das Hauptproblem bei der Arbeit vom content Strategen in fehlenden Verbindungen liegt, also  darin, Verbindungen herzustellen die notwendig sind. Da im Einzelfall in einer Organisation die Gegebenheiten sehr unterschiedlich sind natürlich auch die Verbindungen comedy ein Content-Strategie herstellen muss, sehr unterschiedlich. Sie hängen immer von der Organisation und den Zustand in dem sie sich befindet, ab.
@@ -93,10 +105,15 @@ Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschie
 
 # Content Strategy Quad
 
+# {data-background="pics/Brain-Traffic-Content-Strategy-Quad-2018.png" data-background-size="contain"}
+
+<p class="rights">Braintraffic</p>
 
 # Zyklische Prozesse
 
-Abb.: Erin Scime / DopeData.com, nach Ahava Leibtag
+![](pics/lifecycle_leibtag.jpg)
+
+<p class="rights">Abb.: Erin Scime / DopeData.com, nach Ahava Leibtag</a>
 
 ::: notes
 
@@ -106,40 +123,40 @@ So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines In
 
 
 # “The things we make” (Erin Kissane)
-Accessibility guidelines
-Benchmarks
- Channel strategy
- CMS requirements
- Communication plans
- Community and social strategy
- Community moderation policies
- Competitive analyses
- Content production workshops
- Content sourcing plans
- Content style guides
- Content templates
- Editorial calendars
- Example content
- Feature descriptions
-Gap analyses
- Metadata recommendations
- Project proposals
-Publishing workflow
-Qualitative content audit and ndings
-Quantitative content audit and findings
- Resource review (people, tools, time)
- Search-engine optimization reviews
- Successmetrics
- Taxonomies
- Traffic analysis
- Usability tests
- Userpersonas
-User research findings
-User research plans
-User scenarios
-Visual presentation recommendations
-Wireframes
-Work flow recommendations
+- Accessibility guidelines
+- Benchmarks
+- Channel strategy
+- CMS requirements
+- Communication plans
+- Community and social strategy
+- Community moderation policies
+- Competitive analyses
+- Content production workshops
+- Content sourcing plans
+- Content style guides
+- Content templates
+- Editorial calendars
+- Example content
+- Feature descriptions
+- Gap analyses
+- Metadata recommendations
+- Project proposals
+- Publishing workflow
+- Qualitative content audit and findings
+- Quantitative content audit and findings
+- Resource review (people, tools, time)
+- Search-engine optimization reviews
+- Successmetrics
+- Taxonomies
+- Traffic analysis
+- Usability tests
+- User personas
+- User research findings
+- User research plans
+- User scenarios
+- Visual presentation recommendations
+- Wireframes
+- Work flow recommendations
 
 ::: notes
 
@@ -147,141 +164,166 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 :::
 
-Core Strategy
-19
-Fokus für Verbesserung von Substanz, Struktur, Workflow und Governance
-Klare Unterscheidung von dos und don’ts
+# Core Strategy
+
+# {data-background="pics/bear.jpg" data-background-size="contain"}
+
+#
+
+- Fokus für Verbesserung von Substanz, Struktur, Workflow und Governance
+- Klare Unterscheidung von dos und don’ts
 
 
+# Content Audits
 
-19
+# {data-background="pics/audits.jpg" data-background-size="contain"}
 
-Content Audits
-20
-20
 
-Content Assessments
-21
-21
+# Content Assessments
 
-User Research
-22
-22
+# {data-background="pics/content-scorecard.jpg" data-background-size="contain"}
 
-Core Strategy Statement
-23
-Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/
-23
 
-Core Strategy Statement
-24
-Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/
-24
+# User Research
 
-Botschaftsarchitektur
-25
-25
+# {data-background="pics/persona.jpg" data-background-size="contain"}
 
-Botschaftsarchitektur
-Card-Sorting für Kernbotschaften
-26
-26
 
-Voice and Tone
-27
-http://katekieferlee.com/
-27
+# Core Strategy Statement
 
-Content Modelling
-28
-28
+![](pics/content-strategy-statement-empty.jpg)
 
-Content Templates
-29
-29
+<p class="rights">Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/</p>
 
-Workflow-Definition
-30
-30
 
-Rollendefinition und Governance
-31
-http://de.slideshare.net/epublishmedia/planning-for-content-governance
-31
+# Core Strategy Statement
 
-Tools und Deliverables: CSA
-32
+![](pics/content-strategy-statement-filled.jpg)
+
+
+<p class="rights">Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/</p>
+
+
+# Botschaftsarchitektur
+
+![](pics/message-architecture1.jpg)
+
+#
+
+![Card-Sorting für Kernbotschaften](pics/message-architecture-fh.jpg)
+
+# Voice and Tone
+
+![http://katekieferlee.com/](pics/voice-and-tone.jpg)
+
+# Content Modelling
+
+![Quelle: Rahel Lovinger](pics/model-lovinger.jpg)
+
+
+# Content Templates
+
+# {data-background="pics/content-template.jpg" data-background-size="contain"}
+
+
+# Workflow-Definition
+
+# {data-background="pics/workflow-rockley.jpg" data-background-size="contain"}
+
+
+# Rollendefinition und Governance
+
+# {data-background="pics/governance.jpg" data-background-size="contain"}
+
+
+<p class="rights">http://de.slideshare.net/epublishmedia/planning-for-content-governance</p>
+
+# Tools und Deliverables: CSA
+
+![](pics/csa.jpg)
+
 http://contentstrategyalliance.com/csa-best-practices/csa-handbook/
 
-32
 
-Tools und Deliverables: CS Toolkit
-33
+
+# Tools und Deliverables: CS Toolkit
+
+![](pics/cs-toolkit.jpg)
+
 http://thecontentstrategytoolkit.com/
-33
 
 Tools and Deliverables 3: usability.gov
-34
+
+![](pics/usability-gov.jpg)
+
+
 http://www.usability.gov/tags/content-strategy/index.html
-34
 
-Beispiele für Content-Strategie
-10.3.2016
-35
+# Beispiele für Content-Strategie
 
-“Dougherty-Wold developed a content strategy that included working on Graph Search's tools for refining and expanding searches, tips to help people use Graph Search's simple phrases,....”
+> Dougherty-Wold developed a content strategy that included working on Graph Search's tools for refining and expanding searches, tips to help people use Graph Search's simple phrases,..
 
 https://www.facebook.com/notes/facebook-design/the-people-behind-graph-search/10151210988497793/
 
+
+
 http://www.huffingtonpost.com/2012/11/17/facebook-content-strategist_n_2150364.html
 
+# Facebook: “Designing content for interfaces”
 
+![](pics/facebook-content-design.jpg)
 
-
-36
-Facebook: “Designing content for interfaces”
 http://de.slideshare.net/doughertywold/manage-greenthumbfinal/93
-36
 
-Digitas LBI
+
+# Digitas LBI
+
+![](pics/dlbi.jpg)
+
+
 https://www.linkedin.com/title/content-strategist-at-digitaslbi
-37
-37
 
-cancer.org
+
+# cancer.org
+
+![](pics/cancer-org.jpg)
+
+
 http://de.slideshare.net/lisagdc/intelligent-content-a-case-study
-38
-38
 
-Harvard
+
+# Harvard College
+
+![](pics/harvard-college.jpg)
+
+
 http://de.slideshare.net/Saraboettcher/all-together-now-content-collaboration-in-a-responsive-redesign
-39
-39
+
 
 Stadt Leoben
+
+![](pics/leoben.jpg)
+
+
 http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
-40
-40
 
-Warum ist Content-Strategie wichtig?
-10.3.2016
-41
+# Warum ist Content-Strategie wichtig?
 
-10.3.2016
-42
+#
+
+![](pics/buytaert.jpg)
+
+
 “In the future, content, products and services will find you, rather than you having to find them.” [Dries Buytaert: The Big Reverse of the Web | Dries Buytaert]
 
-Benutzer kontrollieren die Zugänge zu den Inhalten
+# Benutzer kontrollieren die Zugänge zu den Inhalten
 Inhalt, mit dem die User nicht interagieren, findet nicht statt
 Algorithmen und Big Data privilegieren inhaltliche Qualität aus Nutzersicht
 
 Suche, Teilen und Abonnieren
-43
-43
 
-Ressourcen
-10.3.2016
-44
+# Ressourcen
+
 
 Bücher
 Abel, S., & Bailie, R. A. (2014). The Language of Content Strategy. XML Press.
@@ -294,9 +336,6 @@ Eck, K., & Eichmeier, D. (2014). Die Content-Revolution im Unternehmen. Freiburg
 Halvorson, K., & Rach, M. (2012). Content Strategy for the Web; second edition (Second). New Riders.
 Kissane, E. (2011). The elements of content strategy. New York: A Book Apart.
 
-45
-45
-
 Bücher
 Löffler, M. (2013). Think Content! : Grundlagen und Strategien für erfolgreiches Content-Marketing. Galileo Press.
 Mathewson, J., Donatone, F., & Fishel, C. (2010). Audience, Relevance, and Search: Targeting Web Audiences with Relevant Content (1 edition). IBM Press.
@@ -306,15 +345,12 @@ Radl, B. A., & Wittenbrink, H. (2015). Content-Strategie. In Handbuch Online-PR.
 Rockley, A., & Cooper, C. (2012). Managing Enterprise Content: A unified Content Strategy (2. Aufl.). New Riders.
 Wachter-Boettcher, S. (2012). Content Everywhere: Strategy and Structure for Future-Ready Content. Brooklyn, New York: Rosenfeld Media.
 
-46
-46
 
-Websites:
+
+# Websites:
 The Epic List of Content Strategy Resources
 A List Apart Articles about Content Strategy
 The Language of Content Strategy
 Content Strategy Resources
 Content Strategy Conferences | Confab Events
 CONTENT STRATEGY - Open Educational Resources
-47
-47
