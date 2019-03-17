@@ -56,9 +56,29 @@ Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen 
 
 # 2. Customer Journey, Auditing: Wo stehen wir, was wollen unsere User?
 
+## Beispiel: Weiterbildungsveranstaltung des Bildungsnetzwerks
+
 ## Übung: Wie habe ich mich für diese Veranstaltung entschieden?
 
+## Übung: Wer sind meine User und was wollen sie?
+
+## Übung: Touchpoint-Verzeichnis
+
+Persona, Empathy Map, Customer Journey
+
+::: notes
+
+Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit dem Bildungsnetzwerk eine Rolle spielen. Einerseits kommt es darauf an, dass diese Touchpoints aufeinander abgestimmt sein sollten. Andererseits sind dazu Prozesse im Backend nötig. Auf der Frontend-Seite sollte der Inhalt einheitlich sein und zu den verschiedenen Touchpoints passen. Auf der Backend-Seite muss dafür gesorgt werden, dass jeweils der richtige Inhalte zur richtigen Zeit die richtigen User erreicht.
+
+:::
+
+## User Research, Analytics, Monitoring
+
+## Content Audits
+
 # 3. Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
+
+## Wer sind die Stakeholder?
 
 ## Kernstrategie
 
@@ -68,17 +88,28 @@ Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen 
 
 ## Ergebnis: Kernbotschaften
 
-
-##
-
 ::: notes
 
-Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit dem Bildungsnetzwerk eine Rolle spielen. Einerseits kommt es darauf an, dass diese Touchpoints aufeinander abgestimmt sein sollten. Andererseits sind dazu Prozesse im Backend nötig. Auf der Frontend-Seite sollte der Inhalt einheitlich sein und zu den verschiedenen Touchpoints passen. Auf der Backend-Seite muss dafür gesorgt werden, dass jeweils der richtige Inhalte zur richtigen Zeit die richtigen User erreicht.
+Ich muss wissen, mit wem ich spreche und was ich von einer Institution erwarten kann. Das ist der Kern der Markenbotschaften. Umgekehrt muss ich den Usern eindeutig vermitteln, wer ich bin, was sie von mir erwarten und warum sie mir glauben können.
+
+Meine Botschaften sind aber eingebunden in einen praktischen Zweck. Die User wollen etwas. In unserem Fall brauchen sie wahrscheinlich Unterstützung bei der Organisation ihrer eigenen Online-Kommunikation
 
 :::
 
+# 3. Modelle und Plattformen
 
-# 4. Backende und Content Operations
+## Übung: Welchen Content wollen meine User an welcher Stelle?
+
+- Website
+- Newsletter
+- Social Media
+- Nachbereitung
+
+## Wie sollten die Formate aussehen?
+
+## Übung: Design Veranstaltungsinformation
+
+# 4. Backend und Content Operations
 
 # 5. Governance und Change Management
 
@@ -87,3 +118,15 @@ Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit de
 - Übung: Gemeinsame Probleme identifizieren
 
 ## Welchen Veränderungsbedarf gibt es?
+
+# Output
+
+## Content-Strategie-Dokument
+
+- Wer sind meine User?
+- Was will ich erreichen - Kern-Strategie-Statement
+- Wie trete ich auf? Kernbotschaften
+- Wie ist der Ist-Zustand? 
+- Welche Content-Formate verwende ich?
+- Wie sieht der Workflow für meinen Content aus?
+- Was muss ich verändern?
