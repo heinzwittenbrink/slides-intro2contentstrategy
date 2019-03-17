@@ -26,31 +26,48 @@ Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es k
 - 11:45 Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
 - 12:30 Pause
 - 13:15 Modelle und Plattformen
-- 14:00 Governance und Content Operations
-- 14:30 Diskussion, Nächste Schritte
+- 14:00 Backend und Content Operations
+- 14:30 Governance und Change Management
 
 ::: notes
 
 Am Vormittag geht es im wesentlichen um Analyse, am Nachmittag um die Entwicklung eines Konzepts.
 
+Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen Bildungsnetzwerks und das speziell diese Veranstaltung. Wir beschäftigen uns damit,
+- welche Touchpoints es gibt,
+- wie die User-Erfahrung aussieht,
+- was die Ziele der User sind,
+- was die Ziele des Bildungsnetzwerks sind (und wie sie mit den Zielen der User zusammenhängen),
+- wie man eine Kernstrategie des Bildungsnetzwerkes definieren könnte,
+- wie man eine Botschaftsarchitektur des Bildungsnetzwerks definieren könnte,
+- wie man ein Content-Modell definieren kann,
+- wie man Workflows und Monitoring festlegen könnte,
+- wie die Governance aussehen könnte.
+
 :::
 
-# Was ist überhaupt Content-Strategie?
+# 1. Content als Service
 
-# Das Quad
+## Das Quad
 
-##
+## {data-background="pics/Brain-Traffic-Content-Strategy-Quad-2018.png" data-background-size="contain"}
 
-![](pics/Brain-Traffic-Content-Strategy-Quad-2018.png)
 <p class="rights">Braintraffic</p>
 
-# User Journeys und Touchpoints
-
-# Auditing
+# 2. Customer Journey, Auditing: Wo stehen wir, was wollen unsere User?
 
 ## Übung: Wie habe ich mich für diese Veranstaltung entschieden?
 
-# Stakeholder-Analyse und Business Requirements
+# 3. Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
+
+## Kernstrategie
+
+## Ergebnis: Kernstrategie-Statement
+
+## Botschaftsarchitektur
+
+## Ergebnis: Kernbotschaften
+
 
 ##
 
@@ -60,19 +77,10 @@ Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit de
 
 :::
 
-# Kernstrategie
 
-## Ergebnis: Kernstrategie-Statement
+# 4. Backende und Content Operations
 
-# Botschaftsarchitektur
-
-## Ergebnis: Kernbotschaften
-
-# Inhaltstypen und Plattformen
-
-# Content Operations
-
-# Governance
+# 5. Governance und Change Management
 
 ## Wie geht meine Organisation mit Inhalten um?
 
