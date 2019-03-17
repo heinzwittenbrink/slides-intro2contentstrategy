@@ -27,12 +27,12 @@ Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es k
 ##
 
 - 10:00 Begrüßung, Einleitung: Content-Strategie&mdash;The big picture
-- 11:00 Customer Journey, Auditing: Wo stehen wir, was wollen unsere User?
-- 11:45 Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
+- 11:00 Customer Journey, Auditing: Content-Strategie als Service Design
+- 11:45 Übung Personas und User Journey : Wie habe ich mich für diese Veranstaltung entschieden?
 - 12:30 Pause
-- 13:15 Modelle und Plattformen: Welche Inhalte brauchen wir?
-- 14:00 Backend und Content Operations: Wie publizieren wir regelmäßig?
-- 14:30 Governance und Change Management: Wie richten wir uns nach unseren Usern?
+- 13:15 Übung Kernstrategie und Botschaftsarchitektur
+- 14:00 Übung: Content-Typ, Template, Voice&Tone
+- 14:30 Diskussion: Content und Change Management in meiner Organisation 
 
 ::: notes
 
