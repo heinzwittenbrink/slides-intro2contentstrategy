@@ -216,6 +216,9 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 :::
 
+## {data-background="pics/cos_modules.jpg" data-background-size="contain"}
+
+
 ## Kernstrategie
 
 ## {data-background="pics/bear.jpg" data-background-size="contain"}
@@ -392,7 +395,7 @@ Bloomstein, M. (2012). Content strategy at work : real-world stories to streng
 
 Casey, M. (2015). The Content Strategy Toolkit: Methods, Guidelines, and Templates for Getting Content Right. New Riders.
 
-###
+##
 
 Content Strategy Alliance (Hrsg.). (2015). Content Strategy Alliance Tools And Templates.
 
@@ -400,7 +403,7 @@ Cooper, C., & Rockley, A. (2012). Managing enterprise content : a unified cont
 
 Eck, K., & Eichmeier, D. (2014). Die Content-Revolution im Unternehmen. Freiburg im Breisgau: Haufe-Lexware.
 
-###
+##
 
 Halvorson, K., & Rach, M. (2012). Content Strategy for the Web; second edition (Second). New Riders.
 
@@ -408,7 +411,7 @@ Kissane, E. (2011). The elements of content strategy. New York: A Book Apart.
 
 Löffler, M. (2013). Think Content! : Grundlagen und Strategien für erfolgreiches Content-Marketing. Galileo Press.
 
-###
+##
 
 Mathewson, J., Donatone, F., & Fishel, C. (2010). Audience, Relevance, and Search: Targeting Web Audiences with Relevant Content (1 edition). IBM Press.
 
@@ -416,7 +419,7 @@ McGrane, K. (2012). Content strategy for mobile. New York: A Book Apart.
 
 Nichols, K., & Rockley, A. (2015). Enterprise content strategy. XML Press.
 
-###
+##
 
 Radl, B. A., & Wittenbrink, H. (2015). Content-Strategie. In Handbuch Online-PR. Strategische Kommunikation in Internet und Social Web (PR Praxis) (2., überarbeitete u. erweiterte Auflage, S. 127–140). UVK Verlagsgesellschaft.
 
