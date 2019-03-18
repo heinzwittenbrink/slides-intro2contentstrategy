@@ -220,11 +220,11 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 
 ## Kernstrategie
-
+<!--
 ## {data-background="pics/bear.jpg" data-background-size="contain"}
 
 <p class="rights">Bild Joel Sartore, Bearbeitung: Kristina Halvorson</p>
-
+-->
 ##
 
 - Fokus für Verbesserung von Substanz, Struktur, Workflow und Governance
