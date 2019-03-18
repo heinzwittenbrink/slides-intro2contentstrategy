@@ -1,7 +1,7 @@
 ---
 title: Einführung in die Content-Strategie
 subtitle: Workshop für das Bildungsnetzwerk Steiermark
-author: Heinz Wittenbrink
+author: Heinz Wittenbrink/FH Joanneum
 date: 2019-03-18
 ---
 
@@ -9,12 +9,12 @@ date: 2019-03-18
 
 ##
 
-- Grundlagen der Disziplin der Content-Strategie verstehen
+- Grundlagen der Content-Strategie verstehen
 - Umsetzungsbedarf und -möglichkeiten in der eigenen Organisation erkennen
 
 ::: notes
 
-Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es kommt darauf an, die Funktion der Inhalte im Zusammenhang mit Technik und Design zu verstehen. Die Voraussetzung dafür ist, dass man sich darüber klar wird, dass man heute immer auch eine digitale Organisation ist.
+Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es kommt darauf an, die Funktion der Inhalte im Zusammenhang mit Technik und Design zu verstehen. Voraussetzung dafür ist, sich darüber klar zu werden, in welchem Ausmaß man heute immer auch eine digitale Organisation ist.
 
 - Digitalisierung
 - Inhalte über mehrere Touchpoints
@@ -22,23 +22,26 @@ Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es k
 
 :::
 
+
+
 # Ablauf
 
 ##
 
-- 10:00 Begrüßung, Einleitung: Content-Strategie&mdash;The big picture
-- 11:00 Customer Journey, Auditing: Content-Strategie als Service Design
-- 11:45 Übung Personas und User Journey : Wie habe ich mich für diese Veranstaltung entschieden?
+- 10:00 Begrüßung, Vorstellung
+- 10:30 Content-Strategie&mdash;The big picture
+- 11:15 Übung: Festlegung einer Kernstrategie
+- 11:45 Übung: Festlegung einer Botschaftsarchitektur
 - 12:30 Pause
-- 13:15 Übung Kernstrategie und Botschaftsarchitektur
-- 14:00 Übung: Content-Typ, Template, Voice&Tone
-- 14:30 Diskussion: Content und Change Management in meiner Organisation 
+- 13:15 Content-Strategie = Service Design mit Inhalten
+- 14:00 Übung User Journey und Content Typ
+- 14:30 Diskussion: Content-Reifegrad meiner Organisation
 
 ::: notes
 
-Am Vormittag geht es im wesentlichen um Analyse, am Nachmittag um die Entwicklung eines Konzepts.
+Am Vormittag geht es im wesentlichen um Geschäftsstrategie, am Nachmittag um Inhalt und User-Erfahrung.
 
-Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen Bildungsnetzwerks und das speziell diese Veranstaltung. Wir beschäftigen uns damit,
+Wie nehmen als Beispiel&mdash;weil wir es alle kennen&mdash;den Inhalt des Steirischen Bildungsnetzwerks und das speziell diese Veranstaltung. Wir beschäftigen uns damit,
 - welche Touchpoints es gibt,
 - wie die User-Erfahrung aussieht,
 - was die Ziele der User sind,
@@ -51,82 +54,66 @@ Wie nehmen als Beispiel - weil wir das alle kennen - den Inhalt des Steirischen 
 
 :::
 
-# 1. Content-Strategie&mdash;Ein Überblick
+# Content-Strategie&mdash;The big picture
 
 ##
 
-[Content Strategy – the big picture](file:///home/heinz/github/slides-intro2contentstrategy/big-picture.html#/title-slide "Content Strategy – the big picture")
-
-##
-
-
-„Content strategy plans for the creation, delivery and governance of useful, usable content.“
+> Content strategy plans for the creation, delivery and governance of useful, usable content.
 
 ![Kristina Halvorson, Brain Traffic](pics/kristina.jpg)
 
 
 ## Content-Strategie als Disziplin
 
-
 - Entwicklung seit den 1990er Jahren
 - Vor allem in den USA und englischsprachigen Ländern
-- In Digital Agenturen und großen Firmen
+- In Digital-Agenturen und großen Firmen
 - Wurzeln in Redaktion, User Experience Design, Web Entwicklung und Marketing
 - Basis für Content Marketing
 - Professionalisierung in Europa beginnt
-
-<!--
-
-## Ziele heute:
-
-- Content-Strategie als Disziplin darstellen
-- Eigenständigkeit der Content-Strategie diskutieren
-
--->
 
 
 ## Wozu braucht man Content-Strategie?
 
 Content-Strategie stellt sicher, dass ...
+
 … Inhalte den Bedürfnissen ihrer Nutzer entsprechen
 … Inhalte den Zielen der Auftraggeber entsprechen
 
 
 ## Publizieren ohne Content-Strategie ist wie Bauen ohne Planung
 
-##
+## {data-background="pics/sarajevo.jpg" data-background-size="contain"}
 
-![](pics/sarajevo.jpg)
 
 ##
 
 - Inhalte sind “Assets”:
 - Inhalte zu erstellen ist mühsam, teuer und kompliziert
-- Inhalte werden gepflegt und weiterentwickelt
+- Inhalte müssen gepflegt und weiterentwickelt werden
 - Inhalte lassen sich wiederverwenden
 
 ::: notes
 
-Content- Artefakte mit einer Botschaft oder einen kommunikativen GehaltCS Planung dieser Artefakte in Bezug auf ihren Kommunikativen Gehalt
+Content: Artefakte mit einer Botschaft oder einen kommunikativen Gehalt
+CS: Planung dieser Artefakte in Bezug auf ihren Kommunikativen Gehalt
 
-Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadurch, dass sie sich vor allem mit den Artefakten beschäftigt, die on erster Linie existieren, um eilne kommunikative Botschaft vermitteln. Die Content-Strategie konzentriert sich auf die Artefakte und auf die besonderen Regeln die für diese Artefakte gelten. Sie tut dies aber nicht um diese Artefakte technisch zu produzieren sondern sie tut es mit dem Ziel dass die Artefakte die gewünschte Botschaft tatsächlich vermitteln Punkt auch in diesem Bereich ist die Content-Strategie mit der Architektur gut vergleichbar auch in der Architektur geht es nicht so einfach darum, Gebäude zu realisieren, die technisch funktionieren, also ihre Funktionen erfüllen, sondern darum, dass die Gebäude den Wünschen ihrer Benutzer und Auftraggeber optimal entsprechen.
+Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadurch, dass sie sich vor allem mit den Artefakten beschäftigt, die in erster Linie existieren, um eine kommunikative Botschaft vermitteln. Die Content-Strategie konzentriert sich auf die Artefakte und auf die besonderen Regeln, die für diese Artefakte gelten. Sie tut dies aber nicht, um diese Artefakte technisch zu produzieren, sondern mit dem Ziel, dass die Artefakte die gewünschte Botschaft tatsächlich vermitteln. Auch in diesem Bereich ist die Content-Strategie mit der Architektur gut vergleichbar. Auch in der Architektur geht es nicht so einfach darum, Gebäude zu realisieren, die technisch funktionieren, also ihre Funktionen erfüllen, sondern darum, dass die Gebäude den Wünschen ihrer Benutzer und Auftraggeber optimal entsprechen.
 
-Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art Punkt alte bieten aber viel mehr Möglichkeiten, und die Artefakte zu denen sie gehören, sind wirklich komplexer als die Inhalte, die vor der digitalen Revolution gehabt, und die mit relativ überschaubaren Techniken produziert worden. Vor allem lassen sich digitale Inhalte leicht mit Ana ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten während man sich vorher eigentlich direkt mit den Artefakten Beschäftigte, also zB Büchern, an die diese Inhalte gebunden waren
+Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art. Digitale Artefakte bieten aber viel mehr Möglichkeiten, und die Artefakte zu denen sie gehören, sind komplexer als die Inhalte, die vor der digitalen Revolution mit relativ überschaubaren Techniken produziert wurden. Vor allem lassen sich digitale Inhalte leicht ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten, während man sich vorher eigentlich direkt mit den Artefakten Beschäftigte, also z.B. Büchern, an die diese Inhalte gebunden waren
 :::
 
 ## Planung für den Lifecyle von Inhalten
 
 ![](pics/lifecycle.jpg)
 
-##
-
 <p class="rights">Quelle: [Enterprise-Content-Management-in-SharePoint-Server](https://support.office.com/en-us/article/Introduction-to-Enterprise-Content-Management-in-SharePoint-Server-2007-67c13ac8-f6ef-4752-8976-d2910e1da6b4)<p>
 
 
 
-## Content-Strategie:
+##
 
-> wiederholbares System, welches das Management von Inhalten über den gesamten Lebenszyklus der Inhalte steuert
+> Content-Strategie: wiederholbares System, welches das Management von Inhalten über den gesamten Lebenszyklus der Inhalte steuert
 
 (Rahel Bailie, [Content Strategy Framework for the Content Lifecycle](https://de.slideshare.net/rahelab/content-strategy-framework-for-the-content-lifecycle "Content Strategy Framework for the Content Lifecycle"))
 
@@ -134,7 +121,6 @@ Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein U
 ##
 
 > Content strategy is to copywriting as information architecture is to design
-(Rahel Lovinger)
 
 Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows.com/content-strategy-the-philosophy-of-data/ "Content Strategy: The Philosophy of Data - Boxes and Arrows")
 
@@ -149,11 +135,11 @@ Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows
 - Schlechte Planung und Nutzung von Ressoucen
 ...
 
-## Was tut ein Content-Stratege?
+## Content-Strategen
 
 > ... a content strategist, working with, interfaces, systems, people, and the connections—and especially the disconnections—between them.”
 
-![](pics/colman.jpg)
+![Jonathan Colman](pics/colman.jpg)
 
 ::: notes
 
@@ -170,7 +156,7 @@ Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschie
 
 ![](pics/lifecycle_leibtag.jpg)
 
-<p class="rights">Abb.: Erin Scime / DopeData.com, nach Ahava Leibtag</a>
+<p class="rights">Abb.: Erin Scime / DopeData.com, nach Ahava Leibtag</a></p>
 
 ::: notes
 
@@ -188,6 +174,9 @@ So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines In
 - Community and social strategy
 - Community moderation policies
 - Competitive analyses
+
+##
+
 - Content production workshops
 - Content sourcing plans
 - Content style guides
@@ -198,6 +187,9 @@ So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines In
 - Gap analyses
 - Metadata recommendations
 - Project proposals
+
+##
+
 - Publishing workflow
 - Qualitative content audit and findings
 - Quantitative content audit and findings
@@ -208,6 +200,9 @@ So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines In
 - Traffic analysis
 - Usability tests
 - User personas
+
+##
+
 - User research findings
 - User research plans
 - User scenarios
@@ -221,9 +216,11 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 :::
 
-## Core Strategy
+## Kernstrategie
 
 ## {data-background="pics/bear.jpg" data-background-size="contain"}
+
+<p class="rights">Bild Joel Sartore, Bearbeitung: Kristina Halvorson</p>
 
 ##
 
@@ -318,13 +315,6 @@ http://www.usability.gov/tags/content-strategy/index.html
 
 ## Beispiele für Content-Strategie
 
-> Dougherty-Wold developed a content strategy that included working on Graph Search's tools for refining and expanding searches, tips to help people use Graph Search's simple phrases,..
-
-https://www.facebook.com/notes/facebook-design/the-people-behind-graph-search/10151210988497793/
-
-
-
-http://www.huffingtonpost.com/2012/11/17/facebook-content-strategist_n_2150364.html
 
 ## Facebook: “Designing content for interfaces”
 
@@ -332,35 +322,44 @@ http://www.huffingtonpost.com/2012/11/17/facebook-content-strategist_n_2150364.h
 
 http://de.slideshare.net/doughertywold/manage-greenthumbfinal/93
 
+##
+
+> Dougherty-Wold developed a content strategy that included working on Graph Search's tools for refining and expanding searches, tips to help people use Graph Search's simple phrases,..
+
+[The People Behind Graph Search | Facebook](https://www.facebook.com/notes/facebook-design/the-people-behind-graph-search/10151210988497793/ "(12) The People Behind Graph Search | Facebook")
+
+##
+
+[Life As The Voice Of Facebook: How Its 'Content Strategists' Are Quietly Shaping Our Entire Digital Lives | HuffPost](https://www.huffingtonpost.com/2012/11/17/facebook-content-strategist_n_2150364.html?guccounter=1 "Life As The Voice Of Facebook: How Its 'Content Strategists' Are Quietly Shaping Our Entire Digital Lives | HuffPost")
+
 
 ## Digitas LBI
 
-![](pics/dlbi.jpg)
+![Digitas LBI](pics/dlbi.jpg)
 
 
 https://www.linkedin.com/title/content-strategist-at-digitaslbi
 
 
-## cancer.org
+##
 
-![](pics/cancer-org.jpg)
+![cancer.org](pics/cancer-org.jpg)
 
 
 http://de.slideshare.net/lisagdc/intelligent-content-a-case-study
 
 
-## Harvard College
+##
 
-![](pics/harvard-college.jpg)
+![Harvard College](pics/harvard-college.jpg)
 
 
 http://de.slideshare.net/Saraboettcher/all-together-now-content-collaboration-in-a-responsive-redesign
 
 
-## Stadt Leoben
+##
 
-![](pics/leoben.jpg)
-
+![Stadt Leoben](pics/leoben.jpg)
 
 http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
@@ -368,41 +367,65 @@ http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
 ##
 
-![](pics/buytaert.jpg)
+> In the future, content, products and services will find you, rather than you having to find them.
 
+![[The Big Reverse of the Web | Dries Buytaert](https://dri.es/the-big-reverse-of-the-web)](pics/buytaert.jpg){width=30%}
 
-“In the future, content, products and services will find you, rather than you having to find them.” [Dries Buytaert: The Big Reverse of the Web | Dries Buytaert]
+## {data-background="https://dri.es/files/images/blog/push-pull.gif" data-background-size="contain"}
+
 
 ## Benutzer kontrollieren die Zugänge zu den Inhalten
 
 - Inhalt, mit dem die User nicht interagieren, findet nicht statt
 - Algorithmen und Big Data privilegieren inhaltliche Qualität aus Nutzersicht
-- Suche, Teilen und Abonnieren
+- Suche, Teilen und Abonnieren als Zugang zu Inhalten
 
 ## Ressourcen
 
 
-Bücher
+## Bücher
+
 Abel, S., & Bailie, R. A. (2014). The Language of Content Strategy. XML Press.
 Bailie, R. A., & Urbina, N. (2013). Content Strategy: Connecting the dots between business, brand and benefits. XML Press.
+
 Bloomstein, M. (2012). Content strategy at work : real-world stories to strengthen every interactive project. Morgan Kaufmann.
+
 Casey, M. (2015). The Content Strategy Toolkit: Methods, Guidelines, and Templates for Getting Content Right. New Riders.
+
+###
+
 Content Strategy Alliance (Hrsg.). (2015). Content Strategy Alliance Tools And Templates.
+
 Cooper, C., & Rockley, A. (2012). Managing enterprise content : a unified content strategy. Berkeley: New Riders Publ.
+
 Eck, K., & Eichmeier, D. (2014). Die Content-Revolution im Unternehmen. Freiburg im Breisgau: Haufe-Lexware.
+
+###
+
 Halvorson, K., & Rach, M. (2012). Content Strategy for the Web; second edition (Second). New Riders.
+
 Kissane, E. (2011). The elements of content strategy. New York: A Book Apart.
 
-Bücher
 Löffler, M. (2013). Think Content! : Grundlagen und Strategien für erfolgreiches Content-Marketing. Galileo Press.
+
+###
+
 Mathewson, J., Donatone, F., & Fishel, C. (2010). Audience, Relevance, and Search: Targeting Web Audiences with Relevant Content (1 edition). IBM Press.
+
 McGrane, K. (2012). Content strategy for mobile. New York: A Book Apart.
+
 Nichols, K., & Rockley, A. (2015). Enterprise content strategy. XML Press.
+
+###
+
 Radl, B. A., & Wittenbrink, H. (2015). Content-Strategie. In Handbuch Online-PR. Strategische Kommunikation in Internet und Social Web (PR Praxis) (2., überarbeitete u. erweiterte Auflage, S. 127–140). UVK Verlagsgesellschaft.
+
 Rockley, A., & Cooper, C. (2012). Managing Enterprise Content: A unified Content Strategy (2. Aufl.). New Riders.
+
 Wachter-Boettcher, S. (2012). Content Everywhere: Strategy and Structure for Future-Ready Content. Brooklyn, New York: Rosenfeld Media.
 
 ## Websites:
+
 The Epic List of Content Strategy Resources
 A List Apart Articles about Content Strategy
 The Language of Content Strategy
@@ -412,9 +435,20 @@ CONTENT STRATEGY - Open Educational Resources
 
 
 
-# 2. Content als Service&mdash;Was wollen unsere User?
+# Übung: Festlegung einer Kernstrategie
 
-## Content-Strategie = Service Design mit Inhalten
+##
+
+Die Inhalte, die wir produzieren, helfen unserem Unternehmen, (Ziel) und (Ziel) zu erreichen, indem sie (Adjektiv) und (Adjektiv) Inhalte bereitstellen, die (Publikumsbeschreibung) (Emotion) oder (Emotion) vermitteln, so dass sie (Aufgabe) oder (Aufgabe) können.
+
+# Übung: Festlegung einer Botschaftsarchitektur
+
+##
+
+Beispiel: [Message Architecture – gib deiner Marke eine Identität – Mindful Content](https://mindfulcontent.net/2019/03/15/message-architecture-gib-deiner-marke-eine-identitaet/ "Message Architecture – gib deiner Marke eine Identität – Mindful Content")
+
+
+# Content-Strategie = Service Design mit Inhalten
 
 ## Im Fokus:
 
@@ -708,84 +742,15 @@ Discover - Define- Develop - Deliver
 - Durch Inhalte werden Services verständlich
 
 
-## Beispiel: Weiterbildungsveranstaltung des Bildungsnetzwerks
 
-## Übung: Wie habe ich mich für diese Veranstaltung entschieden?
+# Übung User Journey und Content Typ
 
-## Übung: Wer sind meine User und was wollen sie?
+## Wie habe ich mich für diese Veranstaltung entschieden?
 
-## Übung: Touchpoint-Verzeichnis
+# Diskussion: Content-Reifegrad meiner Organisation
 
-Persona, Empathy Map, Customer Journey
-
-::: notes
-
-Es kommt darauf an zu verstehen, welche Touchpoints bei der Kommunikation mit dem Bildungsnetzwerk eine Rolle spielen. Einerseits kommt es darauf an, dass diese Touchpoints aufeinander abgestimmt sein sollten. Andererseits sind dazu Prozesse im Backend nötig. Auf der Frontend-Seite sollte der Inhalt einheitlich sein und zu den verschiedenen Touchpoints passen. Auf der Backend-Seite muss dafür gesorgt werden, dass jeweils der richtige Inhalte zur richtigen Zeit die richtigen User erreicht.
-
-:::
-
-## User Research, Analytics, Monitoring
-
-## Content Audits
-
-# 3. Kernstrategie, Botschaftsarchitektur: Wer sind wir? Was wollen wir erreichen?
-
-## Wer sind die Stakeholder?
-
-## Kernstrategie
-
-## Ergebnis: Kernstrategie-Statement
-
-## Botschaftsarchitektur
-
-## Ergebnis: Kernbotschaften
-
-::: notes
-
-Ich muss wissen, mit wem ich spreche und was ich von einer Institution erwarten kann. Das ist der Kern der Markenbotschaften. Umgekehrt muss ich den Usern eindeutig vermitteln, wer ich bin, was sie von mir erwarten und warum sie mir glauben können.
-
-Meine Botschaften sind aber eingebunden in einen praktischen Zweck. Die User wollen etwas. In unserem Fall brauchen sie wahrscheinlich Unterstützung bei der Organisation ihrer eigenen Online-Kommunikation
-
-:::
-
-# 4. Modelle und Plattformen
-
-## Übung: Welchen Content wollen meine User an welcher Stelle?
-
-- Website
-- Newsletter
-- Social Media
-- Nachbereitung
-
-::: notes
-
-Hier ist wichtig, auf Content Marketing einzugehen.
-
-:::
+##  { data-background="pics/bailie-content-strategy-maturity.jpg" data-background-size="contain" }
 
 
-## Wie sollten die Formate aussehen?
 
-## Übung: Design Veranstaltungsinformation
-
-# 5. Backend und Content Operations
-
-# 6. Governance und Change Management
-
-## Wie geht meine Organisation mit Inhalten um?
-
-- Übung: Gemeinsame Probleme identifizieren
-
-## Welchen Veränderungsbedarf gibt es?
-
-# Output
-
-## Content-Strategie-Dokument
-
-- Wer sind meine User? Persona/Empathy Map
-- Was will ich erreichen - Kern-Strategie-Statement
-- Wie trete ich auf? Kernbotschaften
-- Wie ist der Ist-Zustand? Audit Ankündigung
-- Welche Content-Formate verwende ich? Wie sieht die Veranstaltungsbeschreibung aus und mit welchen anderen Inhalten ist sie verbunden?
-- Wie sieht der Workflow für meinen Content aus? Wie produziere ich die Information? Was kann ich wiedernutzen? Wie messe ich den Erfolg?
-- Was muss ich verändern? Welche Schritte kann ich in meiner Organisation umsetzen?
+# Danke!

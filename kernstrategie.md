@@ -1,0 +1,1 @@
+The content we produce helps our company accomplish (goal) and (goal) by providing (adjective) and (adjective) content that makes (audience description) feel (emotion) or (emotion) so that they can (task) or (task).
