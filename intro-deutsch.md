@@ -2,7 +2,7 @@
 title: Einführung in die Content-Strategie
 subtitle: Workshop für das Bildungsnetzwerk Steiermark
 author: Heinz Wittenbrink/FH Joanneum
-date: 2019-03-18
+date: 2019-03-19
 ---
 
 # Ziele
@@ -752,7 +752,7 @@ Discover - Define- Develop - Deliver
 
 # Diskussion: Content-Reifegrad meiner Organisation
 
-##  { data-background="pics/bailie-content-strategy-maturity.jpg" data-background-size="contain" }
+##  { data-background="pics/Content-Strategy-Maturity-Model-1024x735.png" data-background-size="contain" }
 
 
 
