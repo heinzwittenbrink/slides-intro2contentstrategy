@@ -1,7 +1,7 @@
 ---
 title: Einführung in die Content-Strategie
 subtitle: Workshop für das Bildungsnetzwerk Steiermark
-author: Heinz Wittenbrink/FH Joanneum
+author: Heinz Wittenbrink/FH JOANNEUM
 date: 2019-03-19
 ---
 
