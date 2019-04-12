@@ -16,9 +16,7 @@ date: 2019-03-19
 
 Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es kommt darauf an, die Funktion der Inhalte im Zusammenhang mit Technik und Design zu verstehen. Voraussetzung dafür ist, sich darüber klar zu werden, in welchem Ausmaß man heute immer auch eine digitale Organisation ist.
 
-- Digitalisierung
-- Inhalte über mehrere Touchpoints
-- Digitale Umgebung
+-
 
 :::
 
@@ -41,7 +39,7 @@ Die TeilnehmerInnen sollen ihre Inhalte als eigenes Arbeitsthema entdecken. Es k
 
 Am Vormittag geht es im wesentlichen um Geschäftsstrategie, am Nachmittag um Inhalt und User-Erfahrung.
 
-Wie nehmen als Beispiel&mdash;weil wir es alle kennen&mdash;den Inhalt des Steirischen Bildungsnetzwerks und das speziell diese Veranstaltung. Wir beschäftigen uns damit,
+Wie nehmen als Beispiel&mdash;weil wir es alle kennen&mdash;den Inhalt des Steirischen Bildungsnetzwerks und da speziell diese Veranstaltung. Wir beschäftigen uns damit,
 - welche Touchpoints es gibt,
 - wie die User-Erfahrung aussieht,
 - was die Ziele der User sind,
@@ -83,7 +81,10 @@ Content-Strategie stellt sicher, dass ...
 
 ## Publizieren ohne Content-Strategie ist wie Bauen ohne Planung
 
-## {data-background="pics/sarajevo.jpg" data-background-size="contain"}
+
+##
+
+![](pics/sarajevo.jpg)
 
 
 ##
@@ -95,12 +96,12 @@ Content-Strategie stellt sicher, dass ...
 
 ::: notes
 
-Content: Artefakte mit einer Botschaft oder einen kommunikativen Gehalt
-CS: Planung dieser Artefakte in Bezug auf ihren Kommunikativen Gehalt
+Content: Artefakte (von Menschen gemachte Gegenstände) mit einer Botschaft oder einen kommunikativen Gehalt
+Contentstrategie: Planung dieser Artefakte in Bezug auf ihren kommunikativen Gehalt
 
-Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadurch, dass sie sich vor allem mit den Artefakten beschäftigt, die in erster Linie existieren, um eine kommunikative Botschaft vermitteln. Die Content-Strategie konzentriert sich auf die Artefakte und auf die besonderen Regeln, die für diese Artefakte gelten. Sie tut dies aber nicht, um diese Artefakte technisch zu produzieren, sondern mit dem Ziel, dass die Artefakte die gewünschte Botschaft tatsächlich vermitteln. Auch in diesem Bereich ist die Content-Strategie mit der Architektur gut vergleichbar. Auch in der Architektur geht es nicht so einfach darum, Gebäude zu realisieren, die technisch funktionieren, also ihre Funktionen erfüllen, sondern darum, dass die Gebäude den Wünschen ihrer Benutzer und Auftraggeber optimal entsprechen.
+Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadurch, dass sie sich vor allem mit den Artefakten beschäftigt, die in erster Linie existieren, um eine kommunikative Botschaft vermitteln. Die Content-Strategie konzentriert sich auf die Artefakte und auf die besonderen Regeln, die für diese Artefakte gelten. Sie tut dies aber nicht, um diese Artefakte technisch zu produzieren, sondern mit dem Ziel, dass die Artefakte die gewünschte Botschaft tatsächlich vermitteln. Auch in diesem Bereich ist die Content-Strategie mit der Architektur gut vergleichbar. Auch in der Architektur geht es nicht einfach darum, Gebäude zu realisieren, die technisch funktionieren, also ihre Funktionen erfüllen, sondern darum, dass die Gebäude den Wünschen ihrer Benutzer und Auftraggeber optimal entsprechen.
 
-Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art. Digitale Artefakte bieten aber viel mehr Möglichkeiten, und die Artefakte zu denen sie gehören, sind komplexer als die Inhalte, die vor der digitalen Revolution mit relativ überschaubaren Techniken produziert wurden. Vor allem lassen sich digitale Inhalte leicht ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten, während man sich vorher eigentlich direkt mit den Artefakten Beschäftigte, also z.B. Büchern, an die diese Inhalte gebunden waren
+Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art. Digitale Artefakte bieten aber viel mehr Möglichkeiten, und die Artefakte, zu denen sie gehören (also apps, Websites), sind komplexer als die Inhalte, die vor der digitalen Revolution mit relativ überschaubaren Techniken produziert wurden. Vor allem lassen sich digitale Inhalte leicht ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten, während man sich vorher eigentlich direkt mit den Artefakten beschäftigte, also z.B. Büchern, an die diese Inhalte gebunden waren
 :::
 
 ## Planung für den Lifecyle von Inhalten
@@ -143,12 +144,14 @@ Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows
 
 ::: notes
 
-Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschiedliche Dinge Personen und Gegebenheiten arbeiten, um ein Ergebnis, nämlich Qualität von Inhalten, zu erreichen. Man kann sie nicht auf einem dieser verschiedenen Bereiche festlegen, auch wenn bei vielen Projekten der Hauptakzent auf einem dieser Bereiche liegt. Content hat mit der Verbindung sehr unterschiedliche Dinge zu tun, und diese Verbindungen sind das Hauptthema in der Arbeit von contact Strategen. Dieses Zitat von Jonathan Colman drückt diesem Zusammenhang, wie ich finde, sehr gut aus. Es zeigt auch dass das Hauptproblem bei der Arbeit vom content Strategen in fehlenden Verbindungen liegt, also  darin, Verbindungen herzustellen die notwendig sind. Da im Einzelfall in einer Organisation die Gegebenheiten sehr unterschiedlich sind natürlich auch die Verbindungen comedy ein Content-Strategie herstellen muss, sehr unterschiedlich. Sie hängen immer von der Organisation und den Zustand in dem sie sich befindet, ab.
+Wie Architekten müssen Content-Strategen mit einer großen Zahl ganz unterschiedlicher Dinge, Personen und Gegebenheiten arbeiten, um ein Ergebnis, nämlich Qualität von Inhalten, zu erreichen. Man kann sie nicht auf einen dieser verschiedenen Bereiche festlegen, auch wenn bei vielen Projekten der Hauptakzent auf nur einem dieser Bereiche liegt. Content hat mit der Verbindung sehr unterschiedliche Dinge zu tun, und diese Verbindungen sind das Hauptthema in der Arbeit von Content-Strategen. Dieses Zitat von Jonathan Colman drückt diesem Zusammenhang, wie ich finde, sehr gut aus. Es zeigt auch dass das Hauptproblem bei der Arbeit vom Content-Strategen in fehlenden Verbindungen liegt, also  darin, Verbindungen herzustellen, die notwendig sind. Da im Einzelfall in einer Organisation die Gegebenheiten sehr unterschiedlich sind, sind natürlich auch die Verbindungen, die ein Content-Strategie herstellen muss, sehr unterschiedlich. Sie hängen immer von der Organisation und den Zustand, in dem sie sich befindet, ab.
 
 
 ## Content Strategy Quad
 
-## {data-background="pics/Brain-Traffic-Content-Strategy-Quad-2018.png" data-background-size="contain"}
+##
+
+![](pics/Brain-Traffic-Content-Strategy-Quad-2018.png)
 
 <p class="rights">Braintraffic</p>
 
@@ -160,7 +163,7 @@ Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschie
 
 ::: notes
 
-So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines Inhalts Strategen Zugriff Punkt dabei ist Content nie abgeschlossen ist der Kreis der inhaltserstellung einmal durchlaufen, beginnt er in der Regel von 9 Punkt am Beginn steht immer eine Phase der Erhebung der Tatsachen, in dieser Abteilung Bildung hier als ordet bezeichnet. In dieser Phase versucht man sich über alles klar zu werden, was an Inhalten da ist und was für ein Projekt entscheidend sein kann. Erst nach dieser Phase kann tatsächlich eine Strategie definiert werden, und hier ist natürlich vor allem die Core Strategie gemeint, mit der wir uns eben schon beschäftigt haben. Wenn die strategiedefinition abgeschlossen ist, beginnt die Phase der konkreten Planung Punkt dieser Phase lassen sich die vier Bereiche des Content strategy Quad zuordnen, mit denen wir uns bereits beschäftigt haben Punkt wenn diese Phase abgeschlossen ist wird Inhalt erstellt. Die strategische arbeit im strengen Sinne ist dann abgeschlossen, auch wenn es in der Regel notwendig ist das Content Strategen die Arbeit der übrigens mit dem Inhalt Beschäftigten Leute begleiten. Die darauffolgende Phase wird in dieser Abbildung hier als maintenance, also als aufrechterhalten bezeichnet Punkt hier geht es darum das vorhandene System auf seine Umwelt, die sich ja wie das System selbst auch verändert abzustimmen Punkt es folgt dann wie Kontakt, in aller Regel ein neuer Zyklus der wieder mit einer Bestandsaufnahme beginnt ausgangspunkt dieser Phase und Ausgangspunkt bei jedem Projekt, das nicht das allererste strategische Projekt für Inhalte ist, sollte ein Monitoring des Umgangs mit dem vorhandenen Inhalten sein.
+So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines Inhalts Strategen.  Content ist nie abgeschlossen. Ist der Kreis der inhaltserstellung einmal durchlaufen, beginnt er in der Regel von Neuem. Am Beginn steht immer eine Phase der Erhebung der Tatsachen, in dieser Abbildung als "Audit" bezeichnet. In dieser Phase versucht man, sich über alles klar zu werden, was an Inhalten da ist und was für ein Projekt entscheidend sein kann. Erst nach dieser Phase kann tatsächlich eine Strategie definiert werden, und hier ist natürlich vor allem die Core-Strategie gemeint, mit der wir uns eben schon beschäftigt haben. Wenn die Strategiedefinition abgeschlossen ist, beginnt die Phase der konkreten Planung. Dieser Phase lassen sich die vier Bereiche des Content Strategy Quad zuordnen, mit denen wir uns bereits beschäftigt haben. Wenn diese Phase abgeschlossen ist, wird Inhalt erstellt. Die strategische Arbeit im strengen Sinne ist dann abgeschlossen, auch wenn es in der Regel notwendig ist, dass Content Strategen die Arbeit der übrigens mit dem Inhalt Beschäftigten begleiten. Die darauffolgende Phase wird in dieser Abbildung hier als *maintenance*, also als Pflege bezeichnet. Hier geht es darum das vorhandene System auf seine Umwelt, die sich ja wie das System selbst auch verändert, abzustimmen Punkt. Es folgt dann in aller Regel ein neuer Zyklus, der wieder mit einer Bestandsaufnahme beginnt. Ausgangspunkt dieser Phase und Ausgangspunkt bei jedem Projekt, das nicht das allererste strategische Projekt für Inhalte ist, sollte ein Monitoring des Umgangs mit dem vorhandenen Inhalten sein.
 
 :::
 
@@ -212,11 +215,17 @@ So, wie Inhalte selbst einen Lebenszyklus haben, so ist auch die Arbeit eines In
 
 ::: notes
 
-Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener deliverables. Es sind die Dokumente, in denen für nicht Content-Strategie fixiert wird, wie bei der Produktion der Inhalte vorzugehen ist Punkt was ein Content-Strategie macht, kann man gut darstellen, wenn man von diesen Dokumenten ausgeht. Das bedeutet aber nicht, dass die Arbeit eines konnten Strategen hauptsächlich in der Produktion von Dokumenten besteht diese Dokumente sind alle nur soviel wert, wie das Verständnis für ihre Inhalte in der Organisation, für die der Content-Strategie tätig ist es ist vielleicht ein bisschen wie beim Theater Doppelpunkt das Wesentliche ist nicht der Text so wichtig er auch ist und das Wesentliche ist auch nicht das Programm, das wesentliche ist die Aufführung selbst. wir haben ja schon zu Beginn gesehen, dass das dass das Arbeitsfeld eines konnten Strategen vor allem aus den Verbindungen von sehr unterschiedlichen Bestandteilen besteht Punkt dementsprechend kommt es auch in der Praxis der Content-Strategie und bei den Dokumenten vor allem auf die Beziehungen zwischen ihnen und zwischen den verschiedenen Menschen an, die mit diesen Dokumenten beziehungsweise ihren Inhalten umgehen Punkt die Prozesse die wir jetzt hier beschreiben, machen zusammen aus, wie die Voraussetzungen für gute Inhalte in einer Organisation geschaffen werden Punkt die Aufgabe des contentstrategie besteht darin wie ein Dirigent diese verschiedenen Komponenten zusammenzuführen Punkt ist also nicht der Instrumentalist, der eines dieser verschiedenen Tools gut beherrscht, sondern er ist derjenige der dafür sorgt dass die verschiedenen Instrumentalisten Fachleute auch die Instrumente selbst auch die Akustik des Raumes und die andere materiellen Voraussetzungen gut zusammenpassen.
+Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener *deliverables*. Es sind die Dokumente, in denen für Nicht-Content-Strateginnen fixiert wird, wie bei der Produktion der Inhalte vorzugehen ist. Was ein Content-Strategie tut, kann man gut darstellen, wenn man von diesen Dokumenten ausgeht. Das bedeutet aber nicht, dass die Arbeit eines Content-Strategen hauptsächlich in der Produktion von Dokumenten besteht. Diese Dokumente sind alle nur so viel wert, wie das Verständnis für ihre Inhalte in der Organisation, für die der Content-Stratege oder die Content-Strategin tätig ist- Es ist vielleicht ein bisschen wie beim Theater: Das Wesentliche ist nicht der Text, so wichtig er auch ist, und das Wesentliche ist auch nicht das Programm&mdash;das Wesentliche ist die Aufführung selbst.
+
+Wir haben ja schon zu Beginn gesehen, dass das Arbeitsfeld eines Content-Strategen vor allem aus den Verbindungen Zwischen sehr unterschiedlichen Bestandteilen besteht. Dementsprechend kommt es auch in der Praxis der Content-Strategie und bei den Dokumenten vor allem auf die Beziehungen zwischen ihnen und zwischen den verschiedenen Menschen an, die mit diesen Dokumenten beziehungsweise ihren Inhalten umgehen.
+
+Die Prozesse, die wir jetzt hier beschreiben, machen zusammen aus, wie die Voraussetzungen für gute Inhalte in einer Organisation geschaffen werden. Die Aufgabe der Content-Strategin oder des Content-Strategrn besteht darin, wie ein Dirigent diese verschiedenen Komponenten zusammenzuführen. Sie oder er ist also nicht der Instrumentalist, der eines dieser verschiedenen Tools gut beherrscht, sondern die- oder derjenige, der dafür sorgt dass die verschiedenen Instrumentalisten/ Fachleute, die Instrumente selbst auch die Akustik des Raumes und die andere materiellen Voraussetzungen gut zusammenpassen.
 
 :::
 
-## {data-background="pics/cos_modules.jpg" data-background-size="contain"}
+##
+
+![](pics/cos_modules.jpg)
 
 
 ## Kernstrategie
@@ -233,17 +242,17 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 ## Content Audits
 
-## {data-background="pics/audits.jpg" data-background-size="contain"}
+![](pics/audits.jpg)
 
 
 ## Content Assessments
 
-## {data-background="pics/content-scorecard.jpg" data-background-size="contain"}
+![](pics/content-scorecard.jpg)
 
 
 ## User Research
 
-## {data-background="pics/persona.jpg" data-background-size="contain"}
+![](pics/persona.jpg)
 
 
 ## Core Strategy Statement
@@ -280,17 +289,17 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 ## Content Templates
 
-## {data-background="pics/content-template.jpg" data-background-size="contain"}
+ ![](pics/content-template.jpg)
 
 
 ## Workflow-Definition
 
-## {data-background="pics/workflow-rockley.jpg" data-background-size="contain"}
+![](pics/workflow-rockley.jpg)
 
 
 ## Rollendefinition und Governance
 
-## {data-background="pics/governance.jpg" data-background-size="contain"}
+![](pics/governance.jpg)
 
 
 <p class="rights">http://de.slideshare.net/epublishmedia/planning-for-content-governance</p>
@@ -374,7 +383,7 @@ http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
 ![[The Big Reverse of the Web | Dries Buytaert](https://dri.es/the-big-reverse-of-the-web)](pics/buytaert.jpg){width=30%}
 
-## {data-background="https://dri.es/files/images/blog/push-pull.gif" data-background-size="contain"}
+## ![](https://dri.es/files/images/blog/push-pull.gif)
 
 
 ## Benutzer kontrollieren die Zugänge zu den Inhalten
@@ -389,6 +398,7 @@ http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 ## Bücher
 
 Abel, S., & Bailie, R. A. (2014). The Language of Content Strategy. XML Press.
+
 Bailie, R. A., & Urbina, N. (2013). Content Strategy: Connecting the dots between business, brand and benefits. XML Press.
 
 Bloomstein, M. (2012). Content strategy at work : real-world stories to strengthen every interactive project. Morgan Kaufmann.
@@ -455,13 +465,10 @@ Beispiel: [Message Architecture – gib deiner Marke eine Identität – Mindful
 
 ## Im Fokus:
 
-End-to-end-Experiences
-
-Touchpoints
-
-Systeme
-
-Inhaltsqualität
+- End-to-end-Experiences
+- Touchpoints
+- Systeme
+- Inhaltsqualität
 
 ##
 
@@ -469,7 +476,9 @@ Inhaltsqualität
 
 [Orchestrating Experiences - Rosenfeld Media](https://rosenfeldmedia.com/books/orchestrating-experiences/)
 
-##  {data-background="https://farm1.staticflickr.com/863/39867380770_f9afb0d39c_h.jpg" data-background-size="contain"}
+##  
+
+![](https://farm1.staticflickr.com/863/39867380770_f9afb0d39c_h.jpg)
 
 <p class="rights">Quelle: Risdon, Quattlebaum,
 [Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/39867380770/in/album-72157668191892598/).[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
@@ -492,7 +501,7 @@ Inhaltsqualität
 
 ## Service-orientiertes Angebot
 
-## {data-background="pics/gov_uk_homepage.png" data-background-size="contain"}
+![](pics/gov_uk_homepage.png)
 
 <p class="rights">Quelle Screenshot: [Welcome to GOV.UK](https://www.gov.uk/)</p>
 
@@ -515,7 +524,9 @@ Inhaltsqualität
 <p class="rights">Quelle: [What we mean by service design - Government Digital Service](https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/)</p>
 
 
-## {data-background="pics/lars_bostrom.jpg" data-background-size="contain"}
+##
+
+![](pics/lars_bostrom.jpg)
 
 ## Digital by default
 
@@ -525,9 +536,14 @@ Inhaltsqualität
 
 
 
-## {data-background="pics/were_in_the_business.jpg" data-background-size="contain"}
+##
 
-## {data-background="pics/improving_user_satisfaction.jpg" data-background-size="contain"}
+![](pics/were_in_the_business.jpg)
+
+
+##
+
+![](pics/improving_user_satisfaction.jpg)
 
 
 ## Start with user needs
@@ -543,29 +559,43 @@ Inhaltsqualität
 
 ## Laufendes Feedback
 
-## {data-background="pics/currently_on_govuk.jpg" data-background-size="contain"}
+##
+
+![](pics/currently_on_govuk.jpg)
 
 ## Agile Arbeitsweise
 
-## {data-background="pics/core_of_kanban.jpg" data-background-size="contain"}
+##
 
-## {data-background="pics/postit_board.jpg" data-background-size="contain"}
+![](pics/core_of_kanban.jpg)
+
+##
+
+![](pics/postit_board.jpg)
 
 ## Agile Arbeitsweise in großen Teams
 
-## {data-background="pics/gov_uk_content.jpg" data-background-size="contain"}
+##
+
+![](pics/gov_uk_content.jpg)
 
 
-## {data-background="pics/kanban_kanban.jpg" data-background-size="contain"}
+##
+
+![](pics/kanban_kanban.jpg)
 
 ## Laufende interne Verbesserung
 
-## {data-background="pics/govuk_improvement.jpg" data-background-size="contain"}
+##
+
+![](pics/govuk_improvement.jpg)
 
 
 ## Transparenz
 
-## {data-background="pics/blogs_govuk.png" data-background-size="cover"}
+##
+
+![](pics/blogs_govuk.png)
 
 ## Service Design
 
@@ -583,14 +613,18 @@ Inhaltsqualität
 
 ---
 
-## {data-background="https://farm1.staticflickr.com/870/41634489422_ecb15fedf4_h.jpg" data-background-size="contain"}
+##
+
+![](https://farm1.staticflickr.com/870/41634489422_ecb15fedf4_h.jpg)
 
 <p class="rights">Quelle: Risdon, Quattlebaum,
 [Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/27805555498/in/album-72157668191892598/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
 
 ## Service Blueprints
 
-## {data-background="pics/brandon_schauer_service_blueprint.png" data-background-size="contain"}
+##
+
+![](pics/brandon_schauer_service_blueprint.png)
 
 <p class="rights">Quelle: Brandon Schauer, Adaptive Path [Service blueprint for Service Design panel | You can view it… | Flickr](https://www.flickr.com/photos/brandonschauer/3363169836/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
 
@@ -600,14 +634,18 @@ Inhaltsqualität
 
 Andy Polaine, Ben Reason & Lavrans Løvlie: [Service Design: Chapter 6: Developing the Service Proposition :: UXmatters](https://www.uxmatters.com/mt/archives/2013/03/service-design-chapter-6-developing-the-service-proposition.php)
 
-## {data-background="pics/service_design_blueprint.jpg" data-background-size="contain"}
+##
+
+![](pics/service_design_blueprint.jpg)
 
 <p class="rights">[Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Quelle: [→](https://www.flickr.com/photos/rosenfeldmedia/8461139713/in/photostream/)</p>
 
 
 ## Experience Maps
 
-## {data-background="https://farm1.staticflickr.com/959/39867374570_240d8cf3dc_h.jpg" data-background-size="contain"}
+##
+
+![](https://farm1.staticflickr.com/959/39867374570_240d8cf3dc_h.jpg)
 
 <p class="rights">Quelle: Risdon, Quattlebaum,
 [Rosenfeldmedia](https://www.flickr.com/photos/rosenfeldmedia/39867374570/in/album-72157668191892598/).[Creative Commons — Attribution-ShareAlike 2.0 Generic — CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)</p>
@@ -667,9 +705,13 @@ Andy Polaine, Ben Reason & Lavrans Løvlie: [Service Design: Chapter 6: Developi
 Discover - Define- Develop - Deliver
 
 
-## { data-background="pics/double_diamond1.png" data-background-size="contain" }
+##
 
-## { data-background="pics/double_diamond2.png" data-background-size="contain" }
+![](pics/double_diamond1.png)
+
+##
+
+![](pics/double_diamond2.png)
 
 
 ## Design-Werkzeuge
@@ -684,7 +726,9 @@ Discover - Define- Develop - Deliver
 
 ## Empathy Maps
 
-## { data-background="pics/Empathy_Map_Template.png" data-background-size="contain" }
+##
+
+![](pics/Empathy_Map_Template.png)
 
 <p class="rights">[Empathy Mapping: grok your users | Atlassian Team Playbook](https://www.atlassian.com/team-playbook/plays/empathy-mapping)</p>
 
@@ -752,7 +796,9 @@ Discover - Define- Develop - Deliver
 
 # Diskussion: Content-Reifegrad meiner Organisation
 
-##  { data-background="pics/Content-Strategy-Maturity-Model-1024x735.png" data-background-size="contain" }
+##
+
+![](pics/Content-Strategy-Maturity-Model-1024x735.png)
 
 
 
