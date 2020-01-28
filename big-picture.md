@@ -49,6 +49,8 @@ Content strategy makes sure that ...
 - Content has to be maintained and must evolve
 - Content can and should be reused
 
+---
+
 ::: notes
 
 Content- Artefakte mit einer Botschaft oder einen kommunikativen GehaltCS Planung dieser Artefakte in Bezug auf ihren Kommunikativen Gehalt
@@ -103,6 +105,8 @@ Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows
 ::: notes
 
 Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschiedliche Dinge Personen und Gegebenheiten arbeiten, um ein Ergebnis, nämlich Qualität von Inhalten, zu erreichen. Man kann sie nicht auf einem dieser verschiedenen Bereiche festlegen, auch wenn bei vielen Projekten der Hauptakzent auf einem dieser Bereiche liegt. Content hat mit der Verbindung sehr unterschiedliche Dinge zu tun, und diese Verbindungen sind das Hauptthema in der Arbeit von contact Strategen. Dieses Zitat von Jonathan Colman drückt diesem Zusammenhang, wie ich finde, sehr gut aus. Es zeigt auch dass das Hauptproblem bei der Arbeit vom content Strategen in fehlenden Verbindungen liegt, also  darin, Verbindungen herzustellen die notwendig sind. Da im Einzelfall in einer Organisation die Gegebenheiten sehr unterschiedlich sind natürlich auch die Verbindungen comedy ein Content-Strategie herstellen muss, sehr unterschiedlich. Sie hängen immer von der Organisation und den Zustand in dem sie sich befindet, ab.
+
+:::
 
 
 # Content Strategy Quad
@@ -311,10 +315,9 @@ http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
 # Why is content strategy important?
 
-#
-
 ![](pics/buytaert.jpg)
 
+#
 
 “In the future, content, products and services will find you, rather than you having to find them.” [Dries Buytaert: The Big Reverse of the Web | Dries Buytaert]
 
