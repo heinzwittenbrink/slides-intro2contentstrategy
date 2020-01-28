@@ -12,30 +12,30 @@ date: 2016-3-10
 ![Kristina Halvorson, Brain Traffic](pics/kristina.jpg)
 
 
-# Content-Strategie als Disziplin
+# Content strategy as a discipline
 
 
-- Entwicklung seit den 1990er Jahren
-- Vor allem in den USA und englischsprachigen Ländern
-- In Digital Agenturen und großen Firmen
-- Wurzeln in Redaktion, User Experience Design, Web Entwicklung und Marketing
-- Basis für Content Marketing
-- Professionalisierung in Europa beginnt
+- Development since the 1990ies
+- Mostly in the US and the anglosphere
+- In digital agencies and large companies
+- Roots in editorial, user experience design, web development and marketing
+- Base for content marketing
+- Professionalization in Europe since the 2010s
 
-# Ziele heute:
+# Goals today:
 
-- Content-Strategie als Disziplin darstellen
-- Eigenständigkeit der Content-Strategie diskutieren
-
-
-# Wozu braucht man Content-Strategie?
-
-Content-Strategie stellt sicher, dass ...
-… Inhalte den Bedürfnissen ihrer Nutzer entsprechen
-… Inhalte den Zielen der Auftraggeber entsprechen
+- Describe content strategy as a discipline
+- Discuss the originality of content strategy
 
 
-# Publizieren ohne Content-Strategie ist wie Bauen ohne Planung
+# Why do we need content strategy?
+
+Content strategy makes sure that ...
+… content fulfills user needs
+… content fulfills the needs of organizations
+
+
+# Publishing without content strategy is like publishing without planning
 
 #
 
@@ -43,10 +43,10 @@ Content-Strategie stellt sicher, dass ...
 
 #
 
-- Inhalte sind “Assets”:
-- Inhalte zu erstellen ist mühsam, teuer und kompliziert
-- Inhalte werden gepflegt und weiterentwickelt
-- Inhalte lassen sich wiederverwenden
+- Content is an asset:
+- To produce contet is painful, expensive and complicated
+- Content has to be maintained and must evolve
+- Content can and should be reused
 
 ::: notes
 
@@ -57,7 +57,7 @@ Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadu
 Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art Punkt alte bieten aber viel mehr Möglichkeiten, und die Artefakte zu denen sie gehören, sind wirklich komplexer als die Inhalte, die vor der digitalen Revolution gehabt, und die mit relativ überschaubaren Techniken produziert worden. Vor allem lassen sich digitale Inhalte leicht mit Ana ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten während man sich vorher eigentlich direkt mit den Artefakten Beschäftigte, also zB Büchern, an die diese Inhalte gebunden waren
 :::
 
-# Planung für den Lifecyle von Inhalten
+# Planning for the life cycle of content
 
 ![](pics/lifecycle.jpg)
 
@@ -69,7 +69,7 @@ Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein U
 
 # Content-Strategie:
 
-> wiederholbares System, welches das Management von Inhalten über den gesamten Lebenszyklus der Inhalte steuert
+> repeatable system which governs the management of content throughout the whole lifecycle of content
 
 (Rahel Bailie, [Content Strategy Framework for the Content Lifecycle](https://de.slideshare.net/rahelab/content-strategy-framework-for-the-content-lifecycle "Content Strategy Framework for the Content Lifecycle"))
 
@@ -83,16 +83,16 @@ Rahel Lovinger, [Content Strategy: The Philosophy of Data](http://boxesandarrows
 
 
 
-# Risiken ungeplanter Inhalte
+# Risks of not planned content
 
-- Mangelnde Konsistenz
-- Erschwerte Wiederverwendbarkeit
-- Verkennen der Potenziale von Inhalten
-- Fehlende Benutzergerechtigkeit
-- Schlechte Planung und Nutzung von Ressoucen
+- Lack of consistency
+- Difficulty of reuse
+- Misjudging the potential of content
+- Lack of appropriateness to user needs
+- Poor planning and use of resources
 ...
 
-# Was tut ein Content-Stratege?
+# What's a content strategist to do?
 
 > ... a content strategist, working with, interfaces, systems, people, and the connections—and especially the disconnections—between them.”
 
@@ -109,7 +109,7 @@ Wie Architekten müssen content Strategen mit einer großen Zahl ganz unterschie
 
 <p class="rights">Braintraffic</p>
 
-# Zyklische Prozesse
+# Cyclical processes
 
 ![](pics/lifecycle_leibtag.jpg)
 
@@ -170,8 +170,8 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 #
 
-- Fokus für Verbesserung von Substanz, Struktur, Workflow und Governance
-- Klare Unterscheidung von dos und don’ts
+- Focus on improving substance, structure, workflow and governance
+- Clear distinction between dos and don'ts
 
 
 # Content Audits
@@ -193,7 +193,7 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 
 ![](pics/content-strategy-statement-empty.jpg)
 
-<p class="rights">Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/</p>
+<p class="rights">Source: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/</p>
 
 
 # Core Strategy Statement
@@ -204,13 +204,13 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 <p class="rights">Quelle: Meghan Casey, http://contentmarketinginstitute.com/2016/01/content-on-strategy-templates/</p>
 
 
-# Botschaftsarchitektur
+# Message architecture
 
 ![](pics/message-architecture1.jpg)
 
 #
 
-![Card-Sorting für Kernbotschaften](pics/message-architecture-fh.jpg)
+![Card-Sorting for core messages](pics/message-architecture-fh.jpg)
 
 # Voice and Tone
 
@@ -226,19 +226,19 @@ Content-Strategie produzieren bei ihrer Arbeit eine große Anzahl verschiedener 
 # {data-background="pics/content-template.jpg" data-background-size="contain"}
 
 
-# Workflow-Definition
+# Workflow definition
 
 # {data-background="pics/workflow-rockley.jpg" data-background-size="contain"}
 
 
-# Rollendefinition und Governance
+# Role definition and governance
 
 # {data-background="pics/governance.jpg" data-background-size="contain"}
 
 
 <p class="rights">http://de.slideshare.net/epublishmedia/planning-for-content-governance</p>
 
-# Tools und Deliverables: CSA
+# Tools and deliverables: CSA
 
 ![](pics/csa.jpg)
 
@@ -246,7 +246,7 @@ http://contentstrategyalliance.com/csa-best-practices/csa-handbook/
 
 
 
-# Tools und Deliverables: CS Toolkit
+# Tools and Deliverables: CS Toolkit
 
 ![](pics/cs-toolkit.jpg)
 
@@ -259,7 +259,7 @@ Tools and Deliverables 3: usability.gov
 
 http://www.usability.gov/tags/content-strategy/index.html
 
-# Beispiele für Content-Strategie
+# Examples of applied content strategy
 
 > Dougherty-Wold developed a content strategy that included working on Graph Search's tools for refining and expanding searches, tips to help people use Graph Search's simple phrases,..
 
@@ -307,7 +307,7 @@ Stadt Leoben
 
 http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
-# Warum ist Content-Strategie wichtig?
+# Why is content strategy important?
 
 #
 
@@ -316,16 +316,16 @@ http://de.slideshare.net/coschu/moderne-verwaltungskommunikation-im-web
 
 “In the future, content, products and services will find you, rather than you having to find them.” [Dries Buytaert: The Big Reverse of the Web | Dries Buytaert]
 
-# Benutzer kontrollieren die Zugänge zu den Inhalten
-Inhalt, mit dem die User nicht interagieren, findet nicht statt
-Algorithmen und Big Data privilegieren inhaltliche Qualität aus Nutzersicht
+# Users are in control of the access to information
 
-Suche, Teilen und Abonnieren
+- Content with which users do not interact does not take place
+- Algorithms and Big Data privilege content quality from the user perspective
+- Search, sharing and subsription
 
-# Ressourcen
+# Resources
 
 
-Bücher
+Books
 Abel, S., & Bailie, R. A. (2014). The Language of Content Strategy. XML Press.
 Bailie, R. A., & Urbina, N. (2013). Content Strategy: Connecting the dots between business, brand and benefits. XML Press.
 Bloomstein, M. (2012). Content strategy at work : real-world stories to strengthen every interactive project. Morgan Kaufmann.
@@ -336,7 +336,7 @@ Eck, K., & Eichmeier, D. (2014). Die Content-Revolution im Unternehmen. Freiburg
 Halvorson, K., & Rach, M. (2012). Content Strategy for the Web; second edition (Second). New Riders.
 Kissane, E. (2011). The elements of content strategy. New York: A Book Apart.
 
-Bücher
+Books
 Löffler, M. (2013). Think Content! : Grundlagen und Strategien für erfolgreiches Content-Marketing. Galileo Press.
 Mathewson, J., Donatone, F., & Fishel, C. (2010). Audience, Relevance, and Search: Targeting Web Audiences with Relevant Content (1 edition). IBM Press.
 McGrane, K. (2012). Content strategy for mobile. New York: A Book Apart.
