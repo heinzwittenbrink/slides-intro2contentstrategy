@@ -31,8 +31,9 @@ date: 2016-3-10
 # Why do we need content strategy?
 
 Content strategy makes sure that ...
-… content fulfills user needs
-… content fulfills the needs of organizations
+
+- content fulfills user needs
+- content fulfills the needs of organizations
 
 
 # Publishing without content strategy is like publishing without planning
@@ -55,6 +56,7 @@ Content- Artefakte mit einer Botschaft oder einen kommunikativen GehaltCS Plan
 Eine Content-Strategie unterscheidet sich von einer Kommunikationsstrategie dadurch, dass sie sich vor allem mit den Artefakten beschäftigt, die on erster Linie existieren, um eilne kommunikative Botschaft vermitteln. Die Content-Strategie konzentriert sich auf die Artefakte und auf die besonderen Regeln die für diese Artefakte gelten. Sie tut dies aber nicht um diese Artefakte technisch zu produzieren sondern sie tut es mit dem Ziel dass die Artefakte die gewünschte Botschaft tatsächlich vermitteln Punkt auch in diesem Bereich ist die Content-Strategie mit der Architektur gut vergleichbar auch in der Architektur geht es nicht so einfach darum, Gebäude zu realisieren, die technisch funktionieren, also ihre Funktionen erfüllen, sondern darum, dass die Gebäude den Wünschen ihrer Benutzer und Auftraggeber optimal entsprechen.
 
 Vom Konzept des Artefakts ausgehen kann man auch die Frage beantworten, ob ein Unterschied zwischen Content-Strategie überhaupt und digitaler Content-Strategie besteht. Content-Strategie braucht man für Inhalte, also Artefakte jeder Art Punkt alte bieten aber viel mehr Möglichkeiten, und die Artefakte zu denen sie gehören, sind wirklich komplexer als die Inhalte, die vor der digitalen Revolution gehabt, und die mit relativ überschaubaren Techniken produziert worden. Vor allem lassen sich digitale Inhalte leicht mit Ana ineinander überführen, sodass überhaupt erst Inhalte als solche ins Blickfeld geraten während man sich vorher eigentlich direkt mit den Artefakten Beschäftigte, also zB Büchern, an die diese Inhalte gebunden waren
+
 :::
 
 # Planning for the life cycle of content
